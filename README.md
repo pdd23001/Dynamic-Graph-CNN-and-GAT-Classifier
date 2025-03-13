@@ -1,3 +1,4 @@
+# IMPORTANT DETAILS
 For this Quark/Gluon classifier I am using ParticleNet’s data for Quark/Gluon jet classification available online. 
 It's description can be viewed in this link: https://zenodo.org/records/3164691#.YigdGt9MHrB
 
